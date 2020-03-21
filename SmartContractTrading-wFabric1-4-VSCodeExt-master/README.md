@@ -3,6 +3,8 @@
 
 # SmartContractTrading-wFabric1-4-VSCodeExt
 
+(This project forked from [here](https://github.com/IBM/SmartContractTrading-wFabric1-4-VSCodeExt)
+
 
 >SmartContract Trading using IBM Blockchain Platform Extension for VSCode (supports Fabric 1.4)
 
